@@ -65,13 +65,11 @@ Generated figures:
 
 ##  Running the Pipeline
 
-### 1️⃣ Clone the repo 
-
-git clone <https://github.com/richie-p-meyer/ml_churn_pipeline> 
-cd churn-ml-pipeline 
-  
-### 2️⃣ Install dependencies 
-pip install -r requirements.txt 
+### 1️⃣ Clone the repo  
+git clone git clone https://github.com/richie-p-meyer/ml_churn_pipeline.git  
+   
+### 2️⃣ Install dependencies  
+pip install -r requirements.txt  
  
 ### 3️⃣ Run the pipeline 
 python part3.ipynb   # or open in JupyterLab / VS Code 
