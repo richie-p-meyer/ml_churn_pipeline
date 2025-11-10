@@ -66,7 +66,7 @@ Generated figures:
 ##  Running the Pipeline
 
 ### 1️⃣ Clone the repo 
-```bash 
+
 git clone <TODO: add repo link> 
 cd churn-ml-pipeline 
   
@@ -112,5 +112,7 @@ artifacts/
 └── README.md                  # This file 
 
 ## Author 
-Richard Wilders  Merrimack College — Machine Learning & AI Project  richard16meyer@gmail.com 
+Richard Wilders 
+Merrimack College — Machine Learning & AI Project 
+richard16meyer@gmail.com 
 
