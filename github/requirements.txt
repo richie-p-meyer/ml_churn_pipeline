@@ -1,0 +1,19 @@
+# ==============================================
+# Churn ML Pipeline — Requirements
+# ==============================================
+# Core scientific stack
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.8.4
+
+# Machine Learning
+scikit-learn==1.4.2
+
+# Utilities & helpers
+joblib==1.4.2
+pathlib==1.0.1
+
+# Optional: notebook + interactive environment
+jupyterlab==4.1.5
+notebook==7.1.2
+ipykernel==6.29.3
