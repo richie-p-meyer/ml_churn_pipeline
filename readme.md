@@ -66,7 +66,7 @@ Generated figures:
 ##  Running the Pipeline
 
 ### 1️⃣ Clone the repo  
-git clone git clone https://github.com/richie-p-meyer/ml_churn_pipeline.git  
+git clone https://github.com/richie-p-meyer/ml_churn_pipeline.git  
    
 ### 2️⃣ Install dependencies  
 pip install -r requirements.txt  
@@ -91,7 +91,8 @@ All outputs (metrics, figures, reports) are stored in artifacts folder
 -Store final models & metrics snapshots for versioning deployment  
 -Export pipeline via joblib → deploy as REST API or batch job  
  
- 
+ ## Structure  
+   
 ├── part3.ipynb              # Main reproducible notebook  
 ├── project_data.csv      # Dataset (10k+ records)  
 ├── artifacts/                  # Saved metrics, figures, reports  
