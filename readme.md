@@ -79,40 +79,30 @@ python part3.ipynb   # or open in JupyterLab / VS Code
 ### 4️⃣ View artifacts 
 All outputs (metrics, figures, reports) are stored under: 
 
-artifacts/  
-│ 
-├── metrics_summary.csv 
-├── permutation_importance_validation.csv 
-├── classification_report_model_A.txt 
-└── figures/ 
-    ├── roc_curve_A_vs_B.png 
-    ├── calibration_curve_A_vs_B.png 
-    ├── learning_curve_final_model.png 
-    ├── confusion_matrix_final.png 
-    └── permutation_importance_top20.png 
+
 
 ## Enhancement Idea 
 
--Data drift monitor 
--Integrate with Evidently AI or custom drift statistics  
--Experiment tracking 
--Add MLflow or Weights & Biases 
--Schema enforcement 
--Add Pydantic or Great Expectations 
--Model registry 
--Store final models & metrics snapshots for versioning deployment 
--Export pipeline via joblib → deploy as REST API or batch job 
+-Data drift monitor  
+-Integrate with Evidently AI or custom drift statistics   
+-Experiment tracking  
+-Add MLflow or Weights & Biases  
+-Schema enforcement  
+-Add Pydantic or Great Expectations  
+-Model registry  
+-Store final models & metrics snapshots for versioning deployment  
+-Export pipeline via joblib → deploy as REST API or batch job  
  
  
-├── part3.ipynb                # Main reproducible notebook 
-├── project_data.csv           # Dataset (10k+ records) 
-├── artifacts/                 # Saved metrics, figures, reports 
-├── requirements.txt           # Dependencies 
-├── final_project.pdf          # Condensed report 
-└── README.md                  # This file 
+├── part3.ipynb              # Main reproducible notebook  
+├── project_data.csv      # Dataset (10k+ records)  
+├── artifacts/                  # Saved metrics, figures, reports  
+├── requirements.txt      # Dependencies  
+├── final_project.pdf      # Condensed report  
+└── README.md           # This file  
 
-## Author 
-Richard Wilders 
-Merrimack College — Machine Learning & AI Project 
+## Author   
+Richard Wilders   
+Merrimack College — Machine Learning & AI Project   
 richard16meyer@gmail.com 
 
