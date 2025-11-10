@@ -67,7 +67,7 @@ Generated figures:
 
 ### 1️⃣ Clone the repo 
 
-git clone <TODO: add repo link> 
+git clone <https://github.com/richie-p-meyer/ml_churn_pipeline> 
 cd churn-ml-pipeline 
   
 ### 2️⃣ Install dependencies 
@@ -77,7 +77,7 @@ pip install -r requirements.txt
 python part3.ipynb   # or open in JupyterLab / VS Code 
   
 ### 4️⃣ View artifacts 
-All outputs (metrics, figures, reports) are stored under: 
+All outputs (metrics, figures, reports) are stored in artifacts folder
 
 
 
